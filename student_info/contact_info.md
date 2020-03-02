@@ -1,5 +1,5 @@
 # Contact Info
 
-- Carlo Santos
-  - Email: snapitcarlo@gmail.com
-  - github: carlosantos11 
+- Yada Meas
+  - Email: yadameas825@gmail.com
+  - github: billyGithup 
