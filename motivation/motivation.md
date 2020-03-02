@@ -1,3 +1,7 @@
+- Yada Meas
+  - Email: yadameas825@gmail.com
+  - github: billyGithup 
+
 Name: Yada  
 Motivation:
 
